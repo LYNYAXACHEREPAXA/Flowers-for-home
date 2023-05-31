@@ -6,7 +6,10 @@ header{
     background-color: #278508;
     padding: 10%;
 }
-
+header img{
+    width: 1px;
+    opacity: 0;
+}
 p{
     margin: 3%;
     font-size: 20px;
